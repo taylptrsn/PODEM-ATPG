@@ -7,9 +7,13 @@
 
 ## Project Structure
 ├── deductive.py # Deductive fault simulator
+
 ├── run_deductive.py # Deductive simulator runner
+
 ├── podem.py # PODEM implementation
+
 ├── run_podem.py # PODEM runner
+
 └── circuit_files/ # Circuit description files (.txt) (assumed to be in script directory)
 
 
@@ -61,6 +65,7 @@ or
 `python3 run_deductive.py  # Depending on environment`
 
 For PODEM Test Pattern Generation:
+
 `python run_podem.py`
 
 or
