@@ -54,17 +54,15 @@
 ## Running the Scripts
 
 ### For Deductive Fault Simulation:
-```bash
-python run_deductive.py
-```
+`python run_deductive.py`
+
 or
-```bash
-python3 run_deductive.py  # Depending on environment
-```
+
+`python3 run_deductive.py  # Depending on environment`
+
 For PODEM Test Pattern Generation:
-```bash
-python run_podem.py```
+`python run_podem.py`
+
 or
-```bash
-python3 run_podem.py  # Depending on environment
-```
+
+`python3 run_podem.py  # Depending on environment`
