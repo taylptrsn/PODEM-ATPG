@@ -14,7 +14,7 @@
 
 ├── run_podem.py # PODEM runner
 
-└── circuit_files/ # Circuit description files (.txt) (assumed to be in script directory)
+└── circuits/ # Circuit description files (.txt) (assumed to be in script directory)
 
 
 ### File Descriptions
